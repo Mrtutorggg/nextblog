@@ -1,0 +1,37 @@
+{
+  "name": "nextblog",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@mui/icons-material": "^7.3.7",
+    "@mui/material": "^7.3.7",
+    "@next/font": "^14.2.15",
+    "@types/nprogress": "^0.2.3",
+    "date-fns": "^4.1.0",
+    "graphql": "^16.12.0",
+    "graphql-request": "^7.4.0",
+    "next": "13.5.11",
+    "nprogress": "^0.2.0",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-multi-carousel": "^2.8.6",
+    "react-slick": "^0.31.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/react-slick": "^0.23.13",
+    "eslint": "^8",
+    "eslint-config-next": "13.5.11",
+    "typescript": "^5"
+  }
+}
